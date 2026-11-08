@@ -1,0 +1,6 @@
+.zig-cache*/
+.build-tmp/
+app.res
+policy_test
+scan_test
+__pycache__/
